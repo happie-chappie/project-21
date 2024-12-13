@@ -48,7 +48,7 @@ flowchart TB
     Core --> IL
 ```
 
-Let me break down the Code Security Analysis Agent architecture:
+Code Security Analysis Agent architecture:
 
 1. Agent Description:
 - Primary purpose: Automated security analysis of code repositories
