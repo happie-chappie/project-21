@@ -4,6 +4,7 @@ The project tracks the building of DevSecOps agents
 
 I'll help design the Code Security Analysis Agent with a detailed architecture focusing on its core components and interactions.
 
+```mermaid
 flowchart TB
     subgraph HI["Human Interaction Layer"]
         UI["Web Interface"]
@@ -45,6 +46,7 @@ flowchart TB
     Core --> DL
     Core --> TL
     Core --> IL
+```
 
 Let me break down the Code Security Analysis Agent architecture:
 
