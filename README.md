@@ -2,7 +2,7 @@
 
 The project tracks the building of DevSecOps agents
 
-I'll help design the Code Security Analysis Agent with a detailed architecture focusing on its core components and interactions.
+Code Security Analysis Agent design with a detailed architecture focusing on its core components and interactions.
 
 ```mermaid
 flowchart TB
